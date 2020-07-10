@@ -1,4 +1,5 @@
-# 👨‍💻 Lennon Alves Dias - Cientista da Computação / Computer Science
+# 👨‍💻 Lennon Alves Dias
+## Cientista da Computação / Computer Science
 
 [![social](https://img.shields.io/badge/lennon.cloud-grey?style=for-the-badge)](https://site.lennon.cloud)
 [![social](https://img.shields.io/badge/conectar--blue?style=for-the-badge&logo=facebook&logoColor=blue)](https://www.facebook.com/lennonalvesdias)
