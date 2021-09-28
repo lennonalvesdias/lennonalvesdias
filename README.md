@@ -2,7 +2,7 @@
 
 ## Cientista da Computação / Computer Scientist
 
-[![social](https://img.shields.io/badge/lennon.cloud-grey?style=for-the-badge)](https://site.lennon.cloud)
+[![social](https://img.shields.io/badge/lennon.cloud-grey?style=for-the-badge)](https://lennon.cloud)
 [![social](https://img.shields.io/badge/conectar--blue?style=for-the-badge&logo=facebook&logoColor=blue)](https://www.facebook.com/lennonalvesdias)
 [![social](https://img.shields.io/badge/seguir--red?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/lennonalvesdias)
 [![social](https://img.shields.io/badge/seguir--blue?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/lennonalvesdias)
